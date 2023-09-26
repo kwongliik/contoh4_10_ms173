@@ -1,4 +1,4 @@
-"""User-defined function yang memulangkan nombor besar di kiri
+"""Test: User-defined function yang memulangkan nombor besar di kiri
 dan nombor kecil di kanan"""
 
 def besar_kecil(x,y):   # x dan y ialah parameter, user-defined function ialah besar_kecil()
