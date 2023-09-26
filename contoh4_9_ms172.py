@@ -1,11 +1,11 @@
 #fungsi yang mengira kuasa dua
 def kuasadua(x):    # x ialah parameter, nama user-defined function ialah kuasadua()
-    return x*x
+    pass
 
 #bahagian utama atur cara
 #minta pengguna memasukkan satu nombor
 def main():
-    nom = int(input("Masukkan satu nombor integer: "))  # nom ialah pembolehubah
+    #nom = int(input("Masukkan satu nombor integer: "))
 
     #panggilan fungsi
     nom_kuasa = kuasadua(nom)  
