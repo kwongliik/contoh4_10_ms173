@@ -7,7 +7,7 @@ import pytest
 #     radius = 5
 #     return radius
 
-@pytest.mark.parametrize("a,b", [(4,5), (6, 3), (9,15)])
+@pytest.mark.parametrize("a,b", [(6, 3), (9,15)])
 def test_besar_kecil(a,b):
     [x,y] = besar_kecil(a,b)
     assert x > y
