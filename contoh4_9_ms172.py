@@ -1,3 +1,4 @@
+#Lengkapkan kod Python pada ruang kosong yang disediakan
 #fungsi yang mengira kuasa dua
 ... kuasadua(x):    # x ialah parameter, nama user-defined function ialah kuasadua()
     ...... x * x
