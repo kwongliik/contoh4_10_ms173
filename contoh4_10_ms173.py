@@ -1,22 +1,21 @@
-"""User-defined function yang memulangkan nombor besar di kiri
-dan nombor kecil di kanan
+"""
 Lengkapkan kod Python pada ruang kosong yang disediakan"""
 
-... besar_kecil(x,y):   # x dan y ialah parameter, user-defined function ialah besar_kecil()
+# subatur cara function yang memulangkan nombor besar di kiri dan nombor kecil di kanan
+... besar_kecil(........):   # Guna x dan y sebagai parameter
     if x > y:
         ...............
     else:
         ...............
         
-    
+# Atur cara utama    
 def main():
-    #bahagian utama atur cara
-    #Minta pengguna memasukkan dua nombor
+    #Minta pengguna memasukkan dua nombor integer
     a = int(.....("Masukkan nombor integer yang pertama: ".....
     b = int(.....("Masukkan nombor integer yang kedua: ".....
          
-    #panggilan user-defined function
-    [besar, kecil] = .......................
+    #memanggil subatur cara function besar-kecil()
+    [besar, kecil] = ....................... # Guna a dan b sebagai argumen
     print(...."Nombor ........ lebih besar daripada ........")
 
 ############################################
