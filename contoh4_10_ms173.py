@@ -2,7 +2,7 @@
 dan nombor kecil di kanan
 Lengkapkan kod Python pada ruang kosong yang disediakan"""
 
-..... besar_kecil(x,y):   # x dan y ialah parameter, user-defined function ialah besar_kecil()
+... besar_kecil(x,y):   # x dan y ialah parameter, user-defined function ialah besar_kecil()
     if x > y:
         ...............
     else:
