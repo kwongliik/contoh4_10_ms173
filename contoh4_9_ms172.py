@@ -6,11 +6,14 @@
 #atur cara utama
 #minta pengguna memasukkan satu nombor integer
 def main():
-    nom = int(.....("Masukkan satu nombor integer: .....
+    nom = int(.....("Masukkan satu nombor integer: ".......
 
     #panggilan fungsi
     nom_kuasa = ................  # Guna nom sebagai argumen apabila memanggil subatur cara kuasadua() 
     print(f"Kuasa dua bagi ....... ialah ............")
 
+#************************************
+# JANGAN UBAH KOD DI BAWAH INI
+#************************************
 if __name__ == "__main__":
     main()
