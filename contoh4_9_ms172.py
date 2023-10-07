@@ -13,7 +13,7 @@ def main():
     print(f"Kuasa dua bagi ....... ialah ............")
 
 #************************************
-# JANGAN UBAH KOD DI BAWAH INI
+# Jangan ubah kod di bawah!!
 #************************************
 if __name__ == "__main__":
     main()
