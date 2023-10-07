@@ -12,8 +12,8 @@ def main():
     nom_kuasa = ................  # Guna nom sebagai argumen apabila memanggil subatur cara kuasadua() 
     print(f"Kuasa dua bagi ....... ialah ............")
 
-#************************************
+##################################
 # Jangan ubah kod di bawah!!
-#************************************
+##################################
 if __name__ == "__main__":
     main()
