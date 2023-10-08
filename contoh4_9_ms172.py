@@ -10,7 +10,7 @@ def main():
 
     #panggilan fungsi
     nom_kuasa = ................  # Guna nom sebagai argumen apabila memanggil subatur cara kuasadua() 
-    print(f"Kuasa dua bagi ......... ialah ............")
+    print(f"Kuasa dua bagi ......... ialah {nom_kuasa}")
 
 ##################################
 # Jangan ubah kod di bawah!!
